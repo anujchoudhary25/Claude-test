@@ -11,6 +11,7 @@ export const NAV_LINKS = [
   { label: "Who We Are", href: "#who-we-are" },
   { label: "What We Do", href: "#what-we-do" },
   { label: "Trusted By", href: "#trusted-by" },
+  { label: "Our Work", href: "#our-work" },
   { label: "Pricing", href: "#pricing" },
   { label: "Contact", href: "#contact" },
 ];
@@ -89,6 +90,17 @@ export const CLIENTS = [
     tag: "Content Creation · Influencer Marketing",
     logo: "https://logo.clearbit.com/indrive.com",
   },
+];
+
+export const OUR_WORK = [
+  { url: "https://www.instagram.com/reel/DaVOLcfhFpg/" },
+  { url: "https://www.instagram.com/p/DaVbuYDTNUG/" },
+  { url: "https://www.instagram.com/p/C0HOJexSGUd/" },
+  { url: "https://www.instagram.com/p/DHfgG7wsMgI/" },
+  { url: "https://www.instagram.com/p/DHffIp4RpA0/" },
+  { url: "https://www.instagram.com/p/DEHWx8RzqeI/" },
+  { url: "https://www.instagram.com/p/CrLNQ4sgMW0/" },
+  { url: "https://www.instagram.com/p/DRB0x-_kQ6r/" },
 ];
 
 export const PRICING_TIERS = [
