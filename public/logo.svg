@@ -1,11 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <defs>
-    <path id="logoRing" d="M 100,100 m -78,0 a 78,78 0 1,1 156,0 a 78,78 0 1,1 -156,0" />
-  </defs>
-  <circle cx="100" cy="100" r="98" fill="#FFFFFF" />
-  <circle cx="100" cy="100" r="92" fill="none" stroke="#0A0A0A" stroke-width="1.5" />
-  <text font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="13" letter-spacing="4" fill="#0A0A0A">
-    <textPath href="#logoRing" startOffset="1%">DIGI YOUTH MEDIA &#8226; DIGI YOUTH MEDIA &#8226;</textPath>
-  </text>
-  <text x="100" y="116" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="46" fill="#0A0A0A">DY</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <circle cx="500" cy="500" r="492" fill="#000000" />
+
+  <g fill="#FFFFFF" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900">
+    <text x="95" y="462" font-size="310">D</text>
+    <text x="478" y="462" font-size="310">G</text>
+  </g>
+
+  <g fill="#FFFFFF">
+    <rect x="385" y="320" width="44" height="180" rx="22" />
+    <circle cx="407" cy="258" r="60" />
+
+    <rect x="815" y="320" width="44" height="180" rx="22" />
+    <circle cx="837" cy="258" r="60" />
+  </g>
+
+  <rect x="118" y="558" width="764" height="34" rx="4" fill="#FFFFFF" />
+
+  <text
+    x="500"
+    y="672"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="Arial Black, Arial, Helvetica, sans-serif"
+    font-weight="900"
+    font-size="78"
+    letter-spacing="8"
+  >YOUTH MEDIA</text>
 </svg>
