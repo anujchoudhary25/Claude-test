@@ -59,12 +59,36 @@ export const SERVICES = [
 ];
 
 export const CLIENTS = [
-  { name: "OPPO Delhi", tag: "Content Creation · Influencer Marketing" },
-  { name: "Hollyland", tag: "Content Creation · Influencer Marketing" },
-  { name: "Uber Indore", tag: "Content Creation · Influencer Marketing" },
-  { name: "Astrotalk", tag: "Content Creation · Influencer Marketing" },
-  { name: "Filmora", tag: "Content Creation · Influencer Marketing" },
-  { name: "InDrive", tag: "Content Creation · Influencer Marketing" },
+  {
+    name: "OPPO Delhi",
+    tag: "Content Creation · Influencer Marketing",
+    logo: "https://logo.clearbit.com/oppo.com",
+  },
+  {
+    name: "Hollyland",
+    tag: "Content Creation · Influencer Marketing",
+    logo: "https://logo.clearbit.com/hollyland.com",
+  },
+  {
+    name: "Uber Indore",
+    tag: "Content Creation · Influencer Marketing",
+    logo: "https://logo.clearbit.com/uber.com",
+  },
+  {
+    name: "Astrotalk",
+    tag: "Content Creation · Influencer Marketing",
+    logo: "https://logo.clearbit.com/astrotalk.com",
+  },
+  {
+    name: "Filmora",
+    tag: "Content Creation · Influencer Marketing",
+    logo: "https://logo.clearbit.com/filmora.wondershare.com",
+  },
+  {
+    name: "InDrive",
+    tag: "Content Creation · Influencer Marketing",
+    logo: "https://logo.clearbit.com/indrive.com",
+  },
 ];
 
 export const PRICING_TIERS = [
