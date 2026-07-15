@@ -126,3 +126,19 @@ Keep the tone fast, confident, a little punchy — never corporate, never hedge-
 ## 10. Calibrating to Reference Scripts
 
 When the user adds scripts to `references/`, read all of them before writing new content and extract: average sentence length, recurring phrases/catchphrases, how they open and close, use of Hindi/English mix (Hinglish) if present, humor level, and pacing. Prefer matching their real voice over the generic templates above — this file is the fallback skeleton, not a straitjacket.
+
+### Voice Calibration Notes (live — update as more references come in)
+
+Based on `references/script-1-missing-piece-chocolate.txt`, this account's actual voice:
+
+- **Language:** Hinglish — narration in Hindi (Devanagari), but all business/marketing nouns and key terms stay in English, untranslated: "chocolate," "packet," "piece," "missing," "brand," "twist," "wrapper," "note," "claim," "personal message," "gift," "game," "marketing," "feeling," "follow." Don't Hindi-translate these; don't over-Hinglish either — the ratio in the reference is the target.
+- **Opening move:** "सोचो अगर..." (imagine-if scenario) — drops the viewer into a vivid, concrete, relatable image before revealing it's a real brand's tactic. This is a distinct hook type: **Imagine-Scenario Hook** — add it to the Hook Vault: *"सोचो अगर आप [specific relatable scenario]..."* then *"ऐसा ही एक [brand/company] ने किया।"*
+- **Structure used:** Imagine-hook → the brand did X (with a big round number, "पचास लाख से भी ज्यादा") → "लेकिन असली twist..." pivot phrase → mechanic explained → result stated with another big number ("पांच लाख से ज्यादा लोगों ने...") → **one-line aphorism/insight** stated plainly, no hedging ("कभी कभी business में product नहीं, product से जुड़ी हुई feeling powerful marketing बन जाती है") → CTA tied to content promise ("इस तरह के crazy marketing ideas जानने के लिए मेरे page को follow कीजिए").
+- **Numbers:** always round, always big, always in lakh/crore — "पचास लाख से भी ज्यादा," "पांच लाख से ज्यादा." Never exact/messy numbers.
+- **Pivot phrase:** "लेकिन असली twist..." is the mid-script pattern interrupt — use this exact device (or close variants like "लेकिन game यहीं नहीं रुका") to mark the turn from setup to payoff.
+- **Closing device:** always land on a standalone, quotable insight sentence before the CTA — this is the shareable/screenshot line. Write it as a mini life-lesson, not a summary.
+- **CTA phrasing pattern:** "इस तरह के [content promise] जानने के लिए मेरे page को follow कीजिए" — ties the follow directly to a repeatable content promise (more of this specific thing), not a generic "follow for more."
+- **No greeting, no name-drop of the brand needed** — the reference script never names the actual chocolate brand, keeping it a bit mysterious/generic, which also avoids sounding like an ad. Default to this unless naming the brand adds credibility/shock value.
+- **Sentence rhythm:** short declarative sentences strung together with "और," "लेकिन," "इस तरह" as connectors — avoid long compound sentences; this is spoken-aloud pacing, not written prose.
+
+Write all future scripts for this account in this exact register by default until more references refine it further.
