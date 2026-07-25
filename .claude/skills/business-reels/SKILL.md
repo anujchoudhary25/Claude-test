@@ -68,6 +68,8 @@ A hook must do ONE thing: create a knowledge/curiosity gap the viewer *has* to c
 | 0:40–0:50 | **Twist / Payoff** | The non-obvious insight — the thing that makes someone go "wait, what." This is the shareable line. |
 | 0:50–end | **CTA** | One clear action. Never stack multiple asks. |
 
+**Suspense-beat mode (requested variant, use when the user asks for "more suspense" / "retention every 3-5s"):** break the whole body into explicit ~3-5 second beats, each one either (a) teases a question and delays the answer to the next beat ("Toh phir ad kaun bana raha hai?" → next beat answers it), (b) opens with a visual that looks like one thing and reveals it's actually another ("Yeh dekhne mein beer ka can lagta hai... lekin iske andar sirf paani hai"), or (c) drops a single new number/fact per beat, never two facts in one line. Never let two consecutive beats both be flat statements — always alternate a tease/reveal pair. Deliver scripts in this mode as a beat table (time / line / on-screen text) rather than a flowing paragraph, since that's what production actually needs to cut on the beat.
+
 Longer case studies can run to 90 sec, but every extra second must earn its place — if a sentence doesn't add a number, a twist, or tension, cut it.
 
 ## 4. Retention Mechanics (bake these into every script, don't bolt on later)
