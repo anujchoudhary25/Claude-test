@@ -122,6 +122,15 @@ Hook (promise the count + the payoff) → item 1 (idea + why it works + rough nu
 
 Caption structure: **1-line hook (can differ from video hook) → 2–3 lines of context or the number that matters → soft CTA → 3–5 targeted hashtags.** Avoid generic tags (#business #entrepreneur) as the only tags — mix broad (#businessideas) with specific/niche (#casestudymarketing #startupindia, adapt to actual topic) and one branded/community tag if the account has one.
 
+## 8b. YouTube Shorts SEO Package
+
+The user cross-posts the same content to a YouTube Shorts channel and wants SEO metadata for every short, not just an Instagram caption. Whenever asked for "YT SEO" / "caption for shorts" / similar, deliver all four of these per video:
+
+1. **Title** — front-load the actual keyword (topic/brand name) in the first ~40–50 characters since that's what's weighted most and what shows in search/suggested; keep the curiosity hook but don't bury the keyword behind it. Hard cap ~70 characters so it doesn't truncate on mobile.
+2. **Description** — first 1–2 lines carry the most SEO weight (shown before "...more"), so restate the core keyword/topic naturally in plain language there, not just in hashtags. Follow with a one-line value prop, then hashtags.
+3. **Tags** — 8–12 comma-separated keyword phrases, mixing broad niche terms (marketing case study, business ideas india) with specific ones (the brand/concept name). No stuffing, no irrelevant tags.
+4. **Hashtags** — 4–5 total. **Always include #Shorts** as one of the first 3 — this is what gets it onto the Shorts shelf. Mix it with the same niche tags used on Instagram for consistency.
+
 ## 9. Output Format When Writing a Script
 
 For every request, deliver:
