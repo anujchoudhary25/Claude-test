@@ -192,6 +192,34 @@ Default to **Mode A for Marketing Teardown / Case Study / Contrarian pillars**, 
 - "Follow for daily business ideas." (Mode B)
 - "Follow for unique business ideas like this every single day." (Mode B)
 
+## 10b. Batch-2 Viral Reference Patterns (10 scripts, user-flagged as actually viral — apply these on top of everything above)
+
+The user supplied 10 real viral reel scripts because our output wasn't performing. These are meaningfully denser, more specific, and more structurally aggressive than what we'd been producing. Key differences to actually apply, not just note:
+
+1. **Name real, specific, verifiable things.** Every viral script names a real founder, a real brand, a real number (stake %, valuation, revenue, growth rate). Generic "ek company," "ek bande ki shop" phrasing is weaker than "Ankit Sahni, The Hazelnut Factory, 2019, Lucknow." Default to real, named, checkable specifics whenever the topic allows it — this is a major shift from our earlier semi-anonymized style.
+
+2. **Cascade the reveal, don't just twist once.** Weak structure: setup → one twist → lesson. Viral structure: setup → twist → "and it doesn't stop there" → an even bigger escalation → sometimes a third layer → then the lesson. (Bisleri: hotel-margin problem → Vedica rebrand fix → *then* even-more-premium glass-bottle Himalayan water at ₹300. Lululemon: de-growth → discounting → margin crash → store expansion anyway → *then* why India specifically is the target.) Budget for 2-3 escalating beats, not 1.
+
+3. **Self-skepticism as a trust device.** "मुझे तो इन numbers पर यकीन भी नहीं हुआ था, लेकिन फिर मैंने देखा..." (I didn't believe these numbers either, so I checked) — stated mid-script right before dropping the hardest-to-believe stat, then backing it with a real external data point (an acquisition, a filing, a stake sale). This makes claims land as verified fact, not narrator hype. Use this specifically before your biggest/most surprising number.
+
+4. **State the "lesson" explicitly mid-script too, not only at the end.** "This is the D2C lesson," "यही असली गेम है," etc. as its own standalone beat partway through, in addition to the closing insight line. Two lesson-callouts, not one.
+
+5. **Simulate a dialogue with the viewer.** Pose the objection or question the viewer is already thinking, then answer it in-line: "अब आप सोच रहे होंगे तो business चलता कैसे है?" → then explain. "अब तुम कहोगे इसमें दिक्कत क्या है" → then rebut. This out-performs pure narration because it feels responsive, not lectured.
+
+6. **Numbered/systemized breakdowns spoken aloud.** "पहला system... दूसरा system... तीसरा system..." even in flowing narration (not necessarily a beat table) — gives structure the ear can follow and makes the content feel more "complete"/save-worthy.
+
+7. **Scripts run longer and denser than our ~35-45s default.** These reference scripts are closer to 60-90+ seconds with significantly more information packed in (multiple numbers, multiple named entities, multiple escalation layers per script). For marketing case study and business idea pillars specifically, don't artificially cap length at 40s if the story has real layers — density and real specificity are doing more retention work here than tight pacing alone. Still cut anything that doesn't add a number, name, or turn.
+
+8. **CTA variety beyond "follow":** comment a keyword for a lead magnet ("comment 'system' aur main tumhe details bhej dunga"), audience-specific save/share ask ("save and share this if you're building a D2C brand"), engagement question ("तो बताओ आपकी favorite beer कौन सी है?"), share-with-a-specific-friend-archetype ("share अपने flexi दोस्तों के साथ"), tool/resource CTA when relevant. Rotate these instead of defaulting to generic follow every time.
+
+9. **An edgier, more provocative register exists and works** (the Lululemon script calls out the audience's own status-seeking directly and sarcastically — "आपका उल्लू बनाकर," "अमीर दिखने का शौक रखने वाले middle class"). This drives comments/engagement through mild controversy. This is a tonal option to offer, not the new default — ask the user before going this edgy, since it's a real departure from the friendlier tone used so far.
+
+10. **A personal recurring sign-off phrase is a real, common genre convention**, not a one-off — 3 of these 10 reference scripts end with "जय माता दी" / "कल फिर मिलता हूं" as the creator's identity marker. This retroactively confirms the earlier note about the user's own script 6 ending in "जय जयेंद्र" was likely intentional, not incidental. **Ask the user if they want to adopt a fixed personal sign-off phrase for every script** — don't invent one for them.
+
+11. **Trend-import is a valid business-idea sourcing pattern**: "this is happening in Korea/elsewhere, and the same underlying psychological/behavioral gap exists in India, so here's how to bring it here" — add this alongside the existing "priority idea bank" pattern (cheap physical hack → free distribution) as a second reliable idea-generation method.
+
+12. **Vivid concrete analogies for abstract concepts** — "एक अच्छा driver Nano में बैठकर BMW वाले को हरा नहीं सकता" (a good driver in a Nano can't beat an average driver in a BMW) to explain "talent vs. ecosystem." Reach for a physical, visualizable comparison whenever a script needs to land an abstract business/strategy point.
+
 Note: script 6 ends with an extra personal sign-off "जय जयेंद्र" after the CTA — unclear yet if this is a recurring signature or one-off; ask the user before defaulting to it on every script.
 
 **Universal across both modes:** zero greetings, zero self-intro, zero "in this video I'll show you" — every script starts mid-fact or mid-scenario. Brand names are sometimes withheld (script 1, kept mysterious/non-ad-like) and sometimes stated upfront (script 3, 6) — use judgment: withhold when the mystery *is* the hook, name it when the brand's identity adds credibility or is central to the irony (Nutella).

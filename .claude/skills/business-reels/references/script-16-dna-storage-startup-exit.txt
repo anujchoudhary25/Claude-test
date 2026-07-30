@@ -1,0 +1,13 @@
+भाई India में Google, Meta जैसे global business क्यों नहीं बन पाते? ये देख लो आप। अब ये बहन की कहानी अगर नहीं जानते तो मैं आपको बता देता हूँ। अनन्या नाम है इनका। ₹5 करोड़ लगाकर तीन साल में Bangalore में भाई इन्होंने एक ऐसी technology बनाई जहाँ पे DNA के अंदर आप data को store कर सकते हो।
+
+अब ये technology future में कितनी बड़ी problem solve करेगी वो मैं आपको समझाता हूँ। लेकिन उससे पहले ये सुन लो कि भाई अब ये बहन अपनी Bangalore की lab को literally कबाड़ के भाव बेचकर US से shift हो रही है। क्यों जी? क्योंकि India के investors ने invest करने से मना कर दिया क्योंकि उनको instant returns नहीं दिख रहे थे, ना government support करती। लेकिन जब ये US गई तो वहां पे investors की line लग गई कि भाई आप यहां हो, हम बनवाएंगे ये technology। चली गई बहन।
+
+लेकिन मैं आपको दो चीजें समझा ही देता हूँ। पहला यह DNA storage काम कैसे करती है? क्या लोगों के शरीर के अंदर DNA में data store कर दिया जाएगा? और दूसरा इसके फायदे क्या होने वाले हैं?
+
+अब देखो digital data जो है वो zero, one binary में store होता है। DNA के अंदर भी जो sequence है ATCG का, इसमें data store हो सकता है। तो lab में synthetic DNA बनाकर उसके अंदर data store करा जा रहा है। अब इसके फायदे यह हैं कि DNA के अंदर बहुत छोटी सी जगह में बहुत सारा data बहुत लंबे time के लिए store हो सकता है। इसको मैं अगर आपको context में बताऊं तो एक ग्राम DNA के अंदर 215 petabyte data store हो सकता है, वो भी हज़ारों साल के लिए। Same data को store करने के लिए आपको 30 हज़ार किलो hard drive space चाहिए होगा, जिसकी life cycle होगी पांच से 10 साल की।
+
+अब DNA storage में दो problems solve हो रही हैं। पहली है cost, जिसको अनन्या ने India में बैठे-बैठे solve कर दिया, साढ़े ₹3 लाख per MB data storage की cost को ये ₹100 per MB पर ले आई। और दूसरी है read, write की speed, जिसको ये solve करने में अब शायद लगेंगे US में जाकर।
+
+मोटा-मोटा मुद्दा ये है कि अच्छे talent से ज्यादा important है अच्छा system। इसको आप ऐसे समझो कि एक अच्छा driver Nano के अंदर बैठकर एक average driver BMW वाले को हरा नहीं सकता race में। तो भाई India global talent तो बहुत produce कर पा रहा है, global company एक भी नहीं बन पा रहा, और उसका reason है ecosystem।
+
+share कर देना। बाकी कल फिर मिलता हूँ, जय माता दी मेरे भाई।
