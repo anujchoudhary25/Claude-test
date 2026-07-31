@@ -252,9 +252,9 @@ Yeh idea Tier 2 aur Tier 3 shehron mein abhi bhi bilkul naya hai, jahan log expe
 
 ## Batch 4 — Applying Batch-2 Viral Patterns (denser, named specifics, cascading reveals)
 
-### [ ] Padel Courts (New-Gen Business Idea) — v2, fixed hook per user feedback
+### [ ] Padel Courts (New-Gen Business Idea) — v3, added signature bridge line
 **Hook:** "Kuch logon ne ek khaali warehouse liya, usme padel court banaya, aur ab mahine ka 2-3 lakh rupaye kama rahe hain, sirf ghanton ke hisaab se rent karke, bina kuch beche."
-Kuch logon ne ek khaali warehouse liya, usme padel court banaya, aur ab mahine ka 2-3 lakh rupaye kama rahe hain, sirf ghanton ke hisaab se rent karke, bina kuch beche. Sport ka naam hai padel, tennis aur squash ka mix, aur yeh abhi Mumbai, Bangalore, Delhi mein sabse tezi se badhne wala recreational business ban gaya hai.
+Kuch logon ne ek khaali warehouse liya, usme padel court banaya, aur ab mahine ka 2-3 lakh rupaye kama rahe hain, sirf ghanton ke hisaab se rent karke, bina kuch beche. Yehi hai aaj ka business idea. Sport ka naam hai padel, tennis aur squash ka mix, aur yeh abhi Mumbai, Bangalore, Delhi mein sabse tezi se badhne wala recreational business ban gaya hai.
 
 Ab tum sochoge itna paisa aata kahan se hai? Toh dekho, ek court banane ki cost pandrah se pachees lakh rupaye tak aati hai, flooring, glass walls, netting sab shaamil. Lekin ek court se ek din mein 8-10 hours booking mil jaati hai, aur ek ghante ka rent 800 se 1500 rupaye tak charge hota hai.
 
@@ -266,9 +266,9 @@ Sabse badi baat, abhi competition na ke baraabar hai, kyunki zyadatar logon ko i
 **Caption:** ₹2-3 lakh mahina, sirf rent se, bina kuch beche 🎾 Padel courts business abhi India mein khaali pada hai.
 `#businessideas #padel #newgenbusiness #startupindia #trendingbusiness`
 
-### [ ] High-Protein Bakery / Cloud Kitchen (New-Gen Business Idea) — v2, fixed hook per user feedback
+### [ ] High-Protein Bakery / Cloud Kitchen (New-Gen Business Idea) — v3, added signature bridge line
 **Hook:** "Wahi cookie jo bazaar mein 40 rupaye ki milti hai, usme protein daal kar log 150 rupaye mein bech rahe hain, aur customer khushi khushi de rahe hain."
-Wahi cookie jo bazaar mein 40 rupaye ki milti hai, usme protein daal kar log 150 rupaye mein bech rahe hain, aur customer khushi khushi de rahe hain. Trick hai simple, gym jaane wali, health-conscious generation ab mithai bhi chahti hai, lekin guilt-free.
+Wahi cookie jo bazaar mein 40 rupaye ki milti hai, usme protein daal kar log 150 rupaye mein bech rahe hain, aur customer khushi khushi de rahe hain. Yehi hai aaj ka business idea. Trick hai simple, gym jaane wali, health-conscious generation ab mithai bhi chahti hai, lekin guilt-free.
 
 Ab tum sochoge, sirf ek ingredient badalne se price kaise triple ho gaya? Idea yeh hai ki tum apni cloud kitchen mein high-protein desserts banao, protein cookies, protein brownies, protein ice cream, jisme sugar kam ho aur protein powder ya paneer, Greek yogurt jaisi cheezein use ki jaayein.
 
@@ -280,9 +280,9 @@ Yahi asli lesson hai, jab tum ek existing product ko naye audience ke liye repos
 **Caption:** ₹40 ki cookie, ₹150 mein bik rahi hai, aur log khush hain 💪 Sirf ek ingredient badal ke naya bakery business.
 `#businessideas #proteinbakery #healthbusiness #newgenbusiness #startupindia`
 
-### [ ] No-Code AI App Building Agency (AI Business Idea) — v2, fixed hook per user feedback
+### [ ] No-Code AI App Building Agency (AI Business Idea) — v3, added signature bridge line
 **Hook:** "Ek ladka bina coding jaane, sirf AI tool use karke, local businesses ke liye app bana raha hai, aur ek app ke 15-20 hazaar rupaye charge kar raha hai."
-Ek ladka bina coding jaane, sirf AI tool use karke, local businesses ke liye app bana raha hai, aur ek app ke 15-20 hazaar rupaye charge kar raha hai. AI tools jaise Emergent ya Lovable use karke, sirf type karke ek poori working app ban jaati hai, cart, payment, booking, sab kuch.
+Ek ladka bina coding jaane, sirf AI tool use karke, local businesses ke liye app bana raha hai, aur ek app ke 15-20 hazaar rupaye charge kar raha hai. Yehi hai aaj ka business idea. AI tools jaise Emergent ya Lovable use karke, sirf type karke ek poori working app ban jaati hai, cart, payment, booking, sab kuch.
 
 Ab tum sochoge, agar coding hi nahi aati toh app kaam kaise karegi? Yahi toh trick hai, AI khud backend, database, sab handle kar leta hai, tumhe bas business owner ko samajhna hai unhe kya chahiye, ek gym ke liye membership booking app, ek restaurant ke liye ordering app, ek salon ke liye appointment app.
 
