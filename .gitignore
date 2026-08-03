@@ -3,3 +3,7 @@ dist
 dist-ssr
 *.local
 .DS_Store
+
+# cold-email module: secrets and local data
+cold-email/server/.env
+cold-email/server/data/
