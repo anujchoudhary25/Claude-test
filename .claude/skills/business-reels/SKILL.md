@@ -229,3 +229,42 @@ Note: script 6 ends with an extra personal sign-off "जय जयेंद्�
 **Universal across both modes:** zero greetings, zero self-intro, zero "in this video I'll show you" — every script starts mid-fact or mid-scenario. Brand names are sometimes withheld (script 1, kept mysterious/non-ad-like) and sometimes stated upfront (script 3, 6) — use judgment: withhold when the mystery *is* the hook, name it when the brand's identity adds credibility or is central to the irony (Nutella).
 
 Write all future scripts for this account in the matching mode by default until more references refine it further.
+
+## 10c. Batch-3 Viral Reference Patterns (13 scripts, pasted directly in Roman script — apply on top of everything above)
+
+These 13 came already in Roman-script Hinglish (not Devanagari), broken into short breath-sized lines rather than paragraphs, and noticeably longer/denser than our defaults. Treat this as the current best model of what's actually working.
+
+**1. Formatting: write scripts as short one-clause-per-line beats, not flowing paragraphs.** Every reference script in this batch is broken into short lines (roughly 4-12 words each), often ending in "…" for a trailing pause, e.g.:
+"Bhai, Vietnam ka sabse ameer aadmi India mein 10,000 cabs lekar aa gaya hai…
+aur yeh dekhkar Ola, Uber ke saath-saath Mahindra aur Tata ki bhi tension badh gayi hai."
+This is NOT the same as the beat-table/suspense mode the user rejected earlier — no content is cut or summarized, it's the exact same sentences, just line-broken at natural breath points instead of joined into paragraphs. **Default to this line-broken format for the spoken-script section from now on** (paragraphs are still fine for captions).
+
+**2. Recurring transition phrases — reuse these verbatim, they appear across nearly every script in this batch:**
+- **"Dhyaan se suno" / "Dhyaan se samjho" / "Dhyaan se sunna"** — a direct "pay attention" imperative placed right after the hook, before the explanation starts. Very consistent across multiple different reference accounts, not a one-off quirk.
+- **"Toh exactly ho kya raha hai?"** — rhetorical question immediately following the hook, before the breakdown.
+- **"Sabse interesting baat?" / "Aur sabse interesting part?"** — the single most repeated phrase across this whole batch, used to flag an upcoming highlight/twist. Use liberally, at least once per script, sometimes twice.
+- **"Lekin sawaal yeh hai…"** — poses the mystery the rest of the script will resolve.
+- **"Matlab…"** — a clarity/restatement connector, used constantly to translate a fact into its plain-language implication right after stating it. Don't state a number or fact and move on — follow it with a "Matlab…" line that spells out why it matters.
+- **"Bhai,"** as a hook opener is common (not mandatory) — adds direct address/relatability from the first word.
+
+**3. Jargon payoff device:** introduce a real business/marketing term as a mid-or-late reveal, after the mechanism has already been explained in plain language — "Business language mein isse kehte hain… Content Commerce" / "Matlab… negative customer acquisition cost!" This teaches the viewer new vocabulary as a reward, which is highly save/share-worthy (people repeat terms they just learned). Use once per script when a real term exists for the mechanism being described.
+
+**4. Number-with-a-story device:** when a price or figure can be tied to a meaningful fact, make that connection explicit — One8's ₹9,230 sneaker priced to match Virat Kohli's Test career run count. This rewards close attention and is a strong screenshot/quotable moment. Use whenever the real number allows it — don't fabricate a connection that isn't real.
+
+**5. Industry-benchmark comparison:** contextualize a big number by comparing it to a well-known reference point — "ek store ₹5.5 crore revenue karta hai... Domino's India mein roughly ₹2.5 crore per store per year karta hai." A number alone is abstract; a number next to a familiar benchmark is concrete.
+
+**6. Real quote from the actual subject**, when available and verifiable, as a late-script authenticity payoff — One8 script uses Kohli's own quote ("I want to be forgotten, and I want the brand to outgrow me."). Only use real, checkable quotes, never invented ones.
+
+**7. Stronger denial-pivot:** beyond "लेकिन असली twist यह है," this batch uses **"Lekin asli genius move yeh nahi tha"** — explicitly telling the viewer that what they just heard, which already sounded like the twist, ISN'T even the real one. This defers to an even bigger reveal and can be used to justify a Part 2 cliffhanger.
+
+**8. Part-2 cliffhanger / episode series structure:** two different reference accounts number their content as a series — "This is Day 8 of Decoding Insider Business" and "This was Episode 79 of Secret Business Stories. Episode 80 ke liye follow karna mat bhoolna." Some scripts explicitly cut off mid-story with "Yeh jaanne ke liye Part 2 zaroor check karna." **This is an option, not a default — ask the user if they want to brand their content as a numbered series** before adopting it.
+
+**9. Multi-step CTA funnel, not just a single ask:** several scripts chain a comment-keyword → DM/PDF → bio-link/Telegram-group sequence ("comment 'CLEAR', PDF DM mein aayegi" / "comment 'ICE CREAM'... aur bio mein diye gaye Telegram group ko bhi zaroor join kar lena"). This is a real lead-capture funnel, worth using when the account has a resource/community to funnel people into.
+
+**10. Embedded step-by-step tutorial within the script**, for business ideas that have a concrete replicable process: "Bas ek photo lo… us photo ko [tool] mein is prompt ke saath run karo… phir us photo ko [website] par upload karo…" — a literal numbered recipe inside the narration, more tutorial than story. Use this format when the business idea centers on a specific tool/workflow the viewer could copy today.
+
+**11. Business Idea Breakdown pillar — critical calibration from comparing the 4 business-idea scripts in this batch:** the two strongest ones (3D miniature clones, digital wall printing) thread a full cost → price → margin → revenue-potential chain through the ENTIRE body, not just the hook (e.g. "cost ₹720... sells ₹10-15k... 20X margin" / "market rate ₹200-300/sqft... machine cost ₹10/sqft... 2-3 walls = ₹1 lakh revenue... machine costs ₹5 lakh"). The two weakest ones (customizable flip-flops, mini ice cream pops) lean on vague claims ("craze kaafi zyada hai," "mahine ke lakhs mein kama sakte ho," "boom kar sakta hai") without real numbers anywhere in the body — and read noticeably flatter. **The lesson: the hook needing a figure (already a hard rule) isn't sufficient on its own — the body needs the full unit-economics chain, or the script will still feel generic even with a strong hook.**
+
+**12. Trend-import is close to the default hook for Business Idea Breakdown, not just an occasional option:** nearly every business-idea script in this batch opens by naming a foreign country/market where the idea is already viral (Mexico, Dubai, Korea, "foreign countries") before pitching it for India. Pair this with **"Tum bhi yeh business start kar sakte ho!" / "Tum bhi India mein yeh business start kar sakte ho!"** as a near-standard direct-address line early in the script.
+
+**13. Length calibration, reinforced:** most scripts in this batch are considerably longer than our historical ~40-90s target — the denser marketing-lesson breakdowns (One8, Splitsvilla, VinFast, JioHotstar) read as 90 seconds to 2 minutes of content. Don't compress a story that has this many real beats just to hit a shorter runtime; density and real specificity are what's carrying retention here, not brevity.
