@@ -337,3 +337,149 @@ Picked for the first shoot — one from each pillar-flavor for identity, mixed f
 4. Micro Vending Machines (New-Gen Business Idea — passive-income curiosity)
 
 See the shoot sheet PDF delivered alongside this file for the production-ready version with on-screen text cues.
+
+---
+
+## Batch 5 — 60-second cap, applying batch-3 line-broken format + devices
+
+User asked for max 1-minute scripts. These are tighter than batch-3 references (which ran 90s-2min) — fewer devices per script, but hook still figure-driven, "Matlab…" connector, one "sabse interesting baat?" beat, closing lesson + CTA. Written line-broken per the new default format.
+
+### [ ] Zerodha — Zero Ad Spend, Bootstrapped (Marketing Lesson) — ~55s
+**Hook:** "Zerodha ne aaj tak ek bhi ad nahi chalaya… phir bhi India ka sabse bada stockbroker ban gaya."
+Zerodha ne aaj tak ek bhi ad nahi chalaya…
+Phir bhi India ka sabse bada stockbroker ban gaya.
+Dhyaan se suno.
+Iske founder hain Nithin Kamath.
+Jab baaki stockbrokers TV ads aur celebrities pe crores kharch kar rahe the…
+Zerodha ne wahi paisa product better banane mein laga diya.
+Zero paperwork…
+Flat fees…
+Aur sabse bada move — Varsity.
+Ek free trading education platform…
+Jisse lakhon log stock market seekhte hain.
+Matlab… customer khud trust develop karke aata hai, bina kisi ad ke.
+Aur sabse interesting baat?
+Zerodha ne kabhi outside funding bhi nahi li.
+Poori company bootstrapped hai.
+Mujhe bhi pehle yakeen nahi hua…
+Lekin yeh sach hai, Zerodha aaj crore se zyada active clients ke saath India ka number one broker hai.
+Yahi asli lesson hai…
+Jab product itna trustworthy ho ki log khud recommend karein…
+Tumhe ad ki zaroorat hi nahi padti.
+Aisi hi real marketing case studies ke liye follow karo.
+**Caption:** Ek bhi ad nahi chalaya, phir bhi India ka No.1 stockbroker ban gaya 📈 Zerodha ka asli secret? Product itna acha ki log khud bataye.
+`#zerodha #marketingcasestudy #businesslessons #startupindia #bootstrapped`
+
+### [ ] Mamaearth — Micro-Influencer Seeding (Marketing Lesson) — ~50s
+**Hook:** "Ek brand ne launch ke pehle hi din se, hazaaron chhote Instagram influencers ko free products bhej diye."
+Ek brand ne launch ke pehle hi din se…
+Hazaaron chhote Instagram influencers ko free products bhej diye.
+Yeh hai Mamaearth ki strategy.
+Bade celebrities lene ke bajaye…
+Unhone hazaaron micro-influencers ko target kiya…
+Jinke followers kam the, lekin trust zyada tha.
+Matlab… ek celebrity ad nahi, balki hazaaron "apne jaisे logon" ki recommendation.
+Sabse interesting baat?
+Yeh sab paid ads nahi the…
+Sirf free product ke badle honest reviews.
+Aur yeh reviews itne authentic lagte the…
+Ki log unhe ads hi nahi samajhte the.
+Yeh strategy itni successful hui…
+Ki Mamaearth India ke sabse bade D2C brands mein se ek ban gaya…
+Aur stock market tak pahunch gaya.
+Yahi asli lesson hai…
+Bade celebrities se zyada powerful hote hain…
+Hazaaron chhote, trusted voices.
+Aisi hi real marketing case studies ke liye follow karo.
+**Caption:** 1 celebrity nahi, hazaaron micro-influencers 📦 Mamaearth ne free products se poora D2C empire khada kar diya.
+`#mamaearth #marketingcasestudy #d2c #influencermarketing #businesslessons`
+
+### [ ] Zepto — Creating the Quick Commerce Category (Marketing Lesson) — ~50s
+**Hook:** "Do college dropouts ne ek aisi category create kar di, jo pehle exist hi nahi karti thi."
+Do college dropouts ne ek aisi category create kar di…
+Jo pehle exist hi nahi karti thi.
+Naam hai Zepto.
+Founders the Aadit Palicha aur Kaivalya Vohra…
+Dono ki age tab sirf unteen saal thi.
+Inka idea simple tha — grocery delivery, 10 minute mein.
+Matlab… jo companies din lagati thi, unse kahin zyada fast.
+Sabse interesting baat?
+Yeh sirf speed ka game nahi tha…
+Yeh poori supply chain ko reinvent karna tha.
+Chhote dark stores, har area mein…
+Taaki delivery boy ko dooriyan hi kam tay karni pade.
+Result?
+Ek naya category ban gaya — quick commerce.
+Aur ab Swiggy, Zomato jaise giants bhi isi model ko copy kar rahe hain.
+Yahi asli lesson hai…
+Kabhi kabhi sabse bada opportunity…
+Existing rules todne mein hoti hai.
+Aisi hi real business case studies ke liye follow karo.
+**Caption:** 19 saal ke do dropouts, aur ek poori nayi industry 🛵 Zepto ne "quick commerce" ka naam hi bana diya.
+`#zepto #businesscasestudy #quickcommerce #startupindia #marketinglessons`
+
+### [ ] Custom Neon LED Signs (New-Gen Business Idea) — ~50s
+**Hook:** "Ek chhota sa LED sign banane ka cost ₹500 aata hai, aur log ise ₹3,000 se ₹4,000 mein khareed rahe hain."
+Ek chhota sa LED sign banane ka cost ₹500 aata hai…
+Aur log ise ₹3,000 se ₹4,000 mein khareed rahe hain.
+Yehi hai aaj ka business idea.
+Yeh hai custom neon LED signs ka business.
+Yeh trend abroad, weddings aur cafes mein, already viral hai.
+Idea simple hai…
+Flexible LED neon strip lo…
+Acrylic board pe customer ka naam ya quote design karo…
+Aur wire karke ek glowing sign bana do.
+Ek chhota sign banane ka cost around ₹400 se ₹600 tak aata hai…
+Aur yeh bikta hai ₹2,500 se ₹4,000 mein.
+Matlab… almost 5-6X margin.
+Tum bhi yeh business start kar sakte ho, bina kisi bade setup ke.
+Sabse interesting baat?
+Log ise apni Instagram stories mein khud share karte hain…
+Aur tumhari marketing free mein ho jaati hai.
+Weddings, cafes aur home decor, sab jagah demand hai.
+Aise hi trending business ideas ke liye follow karo.
+**Caption:** ₹500 ka cost, ₹3,000-4,000 mein bikta hai 💡 Custom neon signs abhi India mein bilkul naya business hai.
+`#businessideas #neonsigns #newgenbusiness #startupindia #homedecorbusiness`
+
+### [ ] Photo-to-Crystal Engraving (New-Gen Business Idea) — ~48s
+**Hook:** "Ek blank crystal cube ka cost sirf ₹200 aata hai, aur log apni photo engrave karwa ke ₹1,200 tak de rahe hain."
+Ek blank crystal cube ka cost sirf ₹200 aata hai…
+Aur log apni photo engrave karwa ke ₹1,200 tak de rahe hain.
+Yehi hai aaj ka business idea.
+Yeh hai 3D crystal photo engraving ka business.
+Yeh gifting trend Korea aur China mein already popular hai.
+Process simple hai…
+Customer ki photo lo…
+Ek laser engraving machine se, ya kisi engraving vendor se…
+Us photo ko crystal cube ke andar 3D mein engrave karwao.
+Total cost aata hai ₹250 se ₹350 ke aas paas…
+Aur yeh bikta hai ₹800 se ₹1,500 mein.
+Anniversaries, birthdays aur weddings ke liye…
+Log yeh gift khaas taur pe order karte hain.
+Sabse interesting baat?
+Abhi India mein iska competition bahut kam hai.
+Tum bhi yeh business ghar baithe start kar sakte ho, bina kisi bade investment ke.
+Aise hi unique business ideas ke liye follow karo.
+**Caption:** ₹250 ka cost, ₹1,500 tak mein bikta hai 💎 3D crystal photo gifting business abhi India mein khaali pada hai.
+`#businessideas #giftingbusiness #newgenbusiness #startupindia #smallbusinessidea`
+
+### [ ] Silent Disco Party Rental (New-Gen Business Idea) — ~50s
+**Hook:** "Ek headset ka cost ₹3,000 aata hai, aur ek event mein wahi headset ₹200 mein multiple baar rent hota hai."
+Ek headset ka cost ₹3,000 aata hai…
+Aur ek event mein wahi headset ₹200 mein multiple baar rent hota hai.
+Yehi hai aaj ka business idea.
+Yeh hai silent disco party rental ka business.
+Yeh concept Europe aur US ke festivals mein already viral hai.
+Idea hai…
+Wireless headphones kharido, jisme guests apni pasand ka music channel switch kar sakein…
+Bina speaker ke shor ke.
+30 headsets ka ek set kharidne mein around ₹90,000 tak lagta hai…
+Lekin ek event mein hi ₹6,000 se ₹8,000 tak kama sakte ho.
+Matlab… kuch hi events mein cost recover ho jaata hai.
+Sabse interesting baat?
+Yeh experience itna unique hai ki guests khud videos bana ke share karte hain.
+Colleges, weddings aur corporate events, sab jagah demand hai.
+Tum bhi yeh business start kar sakte ho.
+Aise hi trending business ideas ke liye follow karo.
+**Caption:** ₹90,000 ka setup, ek event mein hi ₹8,000 tak kamai 🎧 Silent disco rental abhi India mein bilkul naya hai.
+`#businessideas #eventbusiness #newgenbusiness #startupindia #partybusiness`
