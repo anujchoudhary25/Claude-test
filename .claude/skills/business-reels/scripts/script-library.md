@@ -635,3 +635,148 @@ Kabhi kabhi log product nahi, perception khareedte hain.
 Aise hi unique business ideas ke liye follow karo.
 **Caption:** Log apni khud ki shaadi mein paid mehmaan bula rahe hain 💃 Ek event se ₹15,000-50,000 tak ki kamai.
 `#businessideas #weddingbusiness #newgenbusiness #startupindia #uniquebusinessidea`
+
+---
+
+## Batch 7 — universally known brands + product-based ideas only
+
+User feedback on batch 6: Luckin Coffee/Ocean Spray were real and shocking but not household names — recognizability itself is a hook, so it's now a hard filter for Marketing Lessons. Return-pallet liquidation/rent-a-baraati read as "random" — Business Idea picks are now restricted to tangible, one-sentence-visualizable products only, not services/logistics/arbitrage.
+
+### [ ] Amul's 50-Year Topical Ad Streak (Marketing Lesson) — ~65s
+**Hook:** "Ek brand pichhle 50 saal se, har hafte, ek naya ad bana raha hai… bina kisi celebrity, bina kisi bade ad agency ke."
+Ek brand pichhle 50 saal se, har hafte, ek naya ad bana raha hai…
+Bina kisi celebrity, bina kisi bade ad agency ke.
+Dhyaan se suno.
+Yeh hai Amul ki story.
+1966 se, Amul har hafte ek topical ad release karta hai…
+Jo us hafte ki sabse badi news, movie ya event se juda hota hai.
+Cricket match ho, election ho, ya koi viral moment…
+Amul girl ka cartoon uspe apni witty line ke saath hazir ho jaata hai.
+Matlab… yeh ads kisi product ko directly bech hi nahi rahe…
+Yeh sirf culture ka hissa ban rahe hain.
+Sabse interesting baat?
+Yeh series 50 saal se continuously chal rahi hai…
+Bina ek bhi hafta miss kiye.
+Aur is consistency ne Amul ko sirf ek dairy brand nahi…
+Balki India ki cultural memory ka hissa bana diya.
+Yahi asli lesson hai…
+Tumhe har baar bada budget nahi chahiye…
+Tumhe sirf relevant rehna aata hona chahiye.
+Aisi hi real marketing case studies ke liye follow karo.
+**Caption:** 50 saal, har hafte, ek naya ad 🐄 Amul ne consistency se hi cultural icon ban gaye.
+`#amul #marketingcasestudy #brandmarketing #marketinglessons #businesslessons`
+
+### [ ] Netflix's Personalized Thumbnails (Marketing Lesson) — ~55s
+**Hook:** "Tum aur tumhara dost same show dekh rahe ho… lekin tum dono ko Netflix par uska thumbnail alag dikh raha hai."
+Tum aur tumhara dost same show dekh rahe ho…
+Lekin tum dono ko Netflix par uska thumbnail alag dikh raha hai.
+Dhyaan se suno.
+Netflix ek hi show ke liye multiple thumbnails banata hai.
+Agar tum romantic content zyada dekhte ho…
+Toh tumhe woh thumbnail dikhega jisme lead actors close dikh rahe hain.
+Agar tum action zyada dekhte ho…
+Toh usi show ka thumbnail tumhe explosion ya fight scene ke saath dikhega.
+Matlab… ek hi product, lekin har viewer ke liye alag pitch.
+Sabse interesting baat?
+Yeh sab AI aur data ke through automatically decide hota hai…
+Koi insaan manually yeh decide nahi karta.
+Aur is choti si trick ne unke click-through rates ko significantly badhaya hai…
+Kyunki tumhe woh dikhta hai jo tumhe already pasand hai.
+Yahi asli lesson hai…
+Sabse best marketing woh hoti hai…
+Jo har customer ko lagti hai ki yeh sirf unke liye bani hai.
+Aisi hi real marketing case studies ke liye follow karo.
+**Caption:** Tumhara Netflix thumbnail, tumhare dost se alag hai 🎬 Yeh hai personalized marketing ka asli level.
+`#netflix #marketingcasestudy #digitalmarketing #marketinglessons #businesslessons`
+
+### [ ] Coca-Cola's "Share a Coke" (Marketing Lesson) — ~55s
+**Hook:** "Coca-Cola ne apna khud ka naam bottle se hata diya… aur sales badh gayi."
+Coca-Cola ne apna khud ka naam bottle se hata diya…
+Aur sales badh gayi.
+Dhyaan se suno.
+Yeh hai "Share a Coke" campaign ki kahani.
+Coca-Cola ne apni bottles pe apna naam print karne ke bajaye…
+Sabse common first names print karne shuru kar diye.
+"Raj," "Priya," "Aman"…
+Jo bhi popular naam the, wahi bottles pe aa gaye.
+Matlab… har customer store mein apna naam dhoondhne lagta.
+Sabse interesting baat?
+Log apna naam dhoondh ke, ya apne dost ka naam dhoondh ke…
+Khud us bottle ki photo click karte aur social media par post karte.
+Ek generic product achanak personal ban gaya.
+Aur reports ke mutabik, is campaign ne saalon se girti hui sales ko wapas grow karna shuru kar diya.
+Yahi asli lesson hai…
+Kabhi kabhi apna naam hata dena…
+Customer ka naam badhana…
+Sabse bada marketing move ban jaata hai.
+Aisi hi real marketing case studies ke liye follow karo.
+**Caption:** Apna naam hataya, customer ka naam laga diya 🥤 Coca-Cola ki "Share a Coke" ne girti sales wapas grow kar di.
+`#cocacola #marketingcasestudy #brandmarketing #marketinglessons #businesslessons`
+
+### [ ] Preserved Eternal Roses (New-Gen Business Idea) — ~55s
+**Hook:** "Ek real gulab ka phool jo normally 5 din mein murjha jaata hai… usi phool ko log ab treat karke 1 saal tak fresh dikhne layak bana rahe hain, aur ₹2,000 tak charge kar rahe hain."
+Ek real gulab ka phool jo normally 5 din mein murjha jaata hai…
+Usi phool ko log ab treat karke 1 saal tak fresh dikhne layak bana rahe hain…
+Aur iske liye ₹2,000 tak charge kar rahe hain.
+Yehi hai aaj ka business idea.
+Yeh hai preserved, "eternal" roses ka business.
+Process mein real roses ko ek special glycerin-based solution mein dip kiya jaata hai…
+Jisse unka natural texture aur color bana rehta hai…
+Lekin woh murjhaate nahi.
+Ek preserved rose box banane ka cost around ₹300 se ₹500 tak aata hai…
+Aur yeh premium acrylic packaging ke saath bikta hai ₹1,500 se ₹2,500 mein.
+Matlab… almost 4-5X margin.
+Sabse interesting baat?
+Yeh normal flowers se kahin zyada Instagram-friendly aur gift-worthy lagte hain…
+Kyunki yeh mahino tak table pe rakhe reh sakte hain.
+Anniversaries, valentine's aur corporate gifting ke liye demand already badh rahi hai.
+Tum bhi yeh business start kar sakte ho, bas ek chhoti workspace aur sahi technique chahiye.
+Aise hi product-based business ideas ke liye follow karo.
+**Caption:** Gulab jo 5 din nahi, 1 saal tak fresh rehta hai 🌹 Preserved roses ka business abhi India mein khaali pada hai.
+`#businessideas #preservedroses #giftingbusiness #newgenbusiness #startupindia`
+
+### [ ] Freeze-Dried Candy (New-Gen Business Idea) — ~55s
+**Hook:** "Ek normal candy jo ₹10 ki milti hai… usi candy ko freeze-dry karke log ₹150 se ₹200 mein bech rahe hain."
+Ek normal candy jo ₹10 ki milti hai…
+Usi candy ko freeze-dry karke log ₹150 se ₹200 mein bech rahe hain.
+Yehi hai aaj ka business idea.
+Yeh hai freeze-dried candy ka business, jo abroad already viral hai.
+Process mein candy ko ek freeze-drying machine mein daala jaata hai…
+Jo usme se moisture ekdum nikal deti hai, bina uska flavor kharab kiye.
+Result?
+Candy ka texture crunchy aur almost double size ho jaata hai…
+Lekin taste same ya usse bhi zyada intense ho jaata hai.
+Ek machine ka investment around ₹1.5 se ₹3 lakh tak ho sakta hai…
+Lekin ek batch banane ki cost per pack sirf ₹20 se ₹30 tak aati hai.
+Matlab… ek baar machine mein invest karo, margins consistently high rehte hain.
+Sabse interesting baat?
+Yeh product itna unique aur satisfying dikhta hai…
+Ki uski unboxing videos khud viral ho jaati hain.
+Tum bhi yeh business start kar sakte ho…
+Aur ek machine se hi multiple candies aur snacks freeze-dry kar sakte ho.
+Aise hi product-based business ideas ke liye follow karo.
+**Caption:** ₹10 ki candy, freeze-dry karke ₹150-200 mein bikti hai 🍬 Abroad ka viral trend abhi India mein naya hai.
+`#businessideas #freezedriedcandy #newgenbusiness #startupindia #snackbusiness`
+
+### [ ] Custom Bobblehead Figures (New-Gen Business Idea) — ~55s
+**Hook:** "Ek 3D printed bobblehead banane ka cost ₹400 aata hai… aur log apna khud ka face wala bobblehead ₹2,000 se ₹3,000 mein khareed rahe hain."
+Ek 3D printed bobblehead banane ka cost ₹400 aata hai…
+Aur log apna khud ka face wala bobblehead ₹2,000 se ₹3,000 mein khareed rahe hain.
+Yehi hai aaj ka business idea.
+Yeh hai custom bobblehead figures ka business.
+Customer ki photo lo…
+AI tool se uska 3D head model banao…
+Ek chhoti cartoon-style body ke saath 3D print karo…
+Aur haath se paint karke finishing do.
+Total cost aata hai ₹350 se ₹500 ke aas paas…
+Aur yeh bikta hai ₹2,000 se ₹3,000 mein.
+Matlab… almost 5-6X margin.
+Sabse interesting baat?
+Log yeh apne liye nahi, gift ke taur pe zyada khareedte hain…
+Birthday, farewell, ya apne pet ke bhi bobbleheads banwate hain.
+Yeh product dekhne mein itna mazedaar lagta hai…
+Ki log ise apni desk ya car mein rakh ke khud hi promote karte hain.
+Tum bhi yeh business ghar se start kar sakte ho, bina kisi bade setup ke.
+Aise hi product-based business ideas ke liye follow karo.
+**Caption:** ₹400 ka cost, ₹2,000-3,000 mein bikta hai 🎎 Custom bobblehead business abhi India mein bilkul naya hai.
+`#businessideas #bobblehead #giftingbusiness #newgenbusiness #startupindia`
